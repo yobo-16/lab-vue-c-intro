@@ -13,7 +13,7 @@ Today, we've learned the basics of Vue.js and how to create a simple app using t
 - Open the LAB and start:
 
   ```bash
-  $ cd lab-vue-basics
+  $ cd lab-vue-c-intro
   $ npm install
   $ npm run dev
   ```
